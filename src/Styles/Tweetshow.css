@@ -1,0 +1,5 @@
+.tweetcollection{
+    display :grid;
+    grid-template-columns: repeat(auto-fit,200px);
+    margin-bottom: 50px;;
+}
